@@ -24,6 +24,7 @@ int main()
 	string name;
 
 	askUserName(name);
+
 	print(name, askUserScore());
 
 	return 0;
